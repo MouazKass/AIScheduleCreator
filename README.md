@@ -1,1 +1,1 @@
-# AIScheduleCreator
+# AI Schedule Creator
